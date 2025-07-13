@@ -23,3 +23,6 @@ For better reader understanding, the three training phases of VRSNet are impleme
 The authors declare that the data are private and cannot be shared. Readers may continue to validate VRSNet on their own datasets or on publicly available datasets using the provided example code.
 
 The vibration signals are stored sample by sample in TXT format with comma separators, following the naming convention [Class_RotationalFrequency.txt]. Readers may modify the data processing, sample segmentation, and naming rules as needed for their own use.
+
+# Notice
+We have fully provided the training set (included in the train.zip archive) for use in the first-phase self-supervised manifold extraction and the second-phase regression training. Due to GitHub’s file size limitations, only a few sample data are included for the validation and test sets, so readers are expected to construct their own training, validation, and test sets as needed. Nevertheless, the complete three-phase training process—including loss curves, accuracy metrics, and key parameter configurations—has been documented in the History folder located in the root directory. Additionally, the final trained models from the last full training run in this project have been preserved and can also be found in History.
