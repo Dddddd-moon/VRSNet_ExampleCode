@@ -1,0 +1,96 @@
+INFO:root:Start [VRSNet] training for dataset [WTH] with [20] epochs.
+INFO:root:CUDA acceleration available: [True]
+INFO:root:Model info:	Feature_shape:[210];	Projector_shape:[64]	Anchoring:[1]
+WARNING:root:Warning message: Loading Extractor Success!
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:45.0450;Epoch_loss:35.8780;-Epoch_acc:45.0450;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:67.1171;Epoch_loss:12.7398;-Epoch_acc:67.1171;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:67.1171;Epoch_loss:2.8024;-Epoch_acc:56.7568;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:67.1171;Epoch_loss:2.7472;-Epoch_acc:64.4144;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.8374;-Epoch_acc:69.8198;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.5839;-Epoch_acc:62.1622;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.2964;-Epoch_acc:58.7838;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.1485;-Epoch_acc:52.2523;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.1258;-Epoch_acc:50.4505;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.1157;-Epoch_acc:50.4505;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.0840;-Epoch_acc:50.4505;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.0630;-Epoch_acc:50.4505;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.0538;-Epoch_acc:50.0000;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.0212;-Epoch_acc:49.7748;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.0246;-Epoch_acc:50.0000;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.0148;-Epoch_acc:49.3243;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.0074;-Epoch_acc:49.5495;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.0075;-Epoch_acc:49.5495;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.0050;-Epoch_acc:49.3243;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.8198;Epoch_loss:0.0053;-Epoch_acc:49.3243;
+INFO:root:Start [VRSNet] training for dataset [WTH] with [20] epochs.
+INFO:root:CUDA acceleration available: [True]
+INFO:root:Model info:	Feature_shape:[210];	Projector_shape:[64]	Anchoring:[5]
+WARNING:root:Warning message: Loading Extractor Success!
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:81.5315;Epoch_loss:45.0091;-Epoch_acc:81.5315;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:87.8378;Epoch_loss:13.3155;-Epoch_acc:87.8378;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:87.8378;Epoch_loss:7.1428;-Epoch_acc:87.8378;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:95.2703;Epoch_loss:6.5678;-Epoch_acc:95.2703;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:97.7477;Epoch_loss:4.0760;-Epoch_acc:97.7477;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:97.7477;Epoch_loss:3.5012;-Epoch_acc:97.7477;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.1982;Epoch_loss:2.3077;-Epoch_acc:98.1982;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.1982;Epoch_loss:1.6905;-Epoch_acc:97.2973;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.4234;Epoch_loss:1.1417;-Epoch_acc:98.4234;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.7748;Epoch_loss:0.7963;-Epoch_acc:99.7748;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.7748;Epoch_loss:0.8764;-Epoch_acc:99.0991;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.7748;Epoch_loss:0.5564;-Epoch_acc:99.7748;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.7748;Epoch_loss:0.4232;-Epoch_acc:99.5495;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.7748;Epoch_loss:0.2977;-Epoch_acc:99.5495;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.7748;Epoch_loss:0.4326;-Epoch_acc:99.5495;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.7748;Epoch_loss:0.2435;-Epoch_acc:99.3243;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.7748;Epoch_loss:0.1501;-Epoch_acc:99.5495;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.7748;Epoch_loss:0.1700;-Epoch_acc:99.7748;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.7748;Epoch_loss:0.1391;-Epoch_acc:99.7748;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.7748;Epoch_loss:0.1563;-Epoch_acc:99.7748;
+INFO:root:Start [VRSNet] training for dataset [WTH] with [20] epochs.
+INFO:root:CUDA acceleration available: [True]
+INFO:root:Model info:	Feature_shape:[210];	Projector_shape:[64]	Anchoring:[10]
+WARNING:root:Warning message: Loading Extractor Success!
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:93.9189;Epoch_loss:37.6848;-Epoch_acc:93.9189;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:94.5946;Epoch_loss:12.2577;-Epoch_acc:94.5946;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:94.5946;Epoch_loss:7.5866;-Epoch_acc:94.5946;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:97.5225;Epoch_loss:3.2049;-Epoch_acc:97.5225;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.1982;Epoch_loss:2.3444;-Epoch_acc:98.1982;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:1.0221;-Epoch_acc:98.6486;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:0.5614;-Epoch_acc:98.6486;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:0.8179;-Epoch_acc:98.6486;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.0991;Epoch_loss:0.6012;-Epoch_acc:99.0991;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.0991;Epoch_loss:0.4533;-Epoch_acc:99.0991;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.0991;Epoch_loss:0.5358;-Epoch_acc:99.0991;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.0991;Epoch_loss:0.2834;-Epoch_acc:99.0991;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.3243;Epoch_loss:0.1536;-Epoch_acc:99.3243;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.3243;Epoch_loss:0.2496;-Epoch_acc:99.3243;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.3243;Epoch_loss:0.1082;-Epoch_acc:99.3243;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.3243;Epoch_loss:0.1228;-Epoch_acc:99.3243;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.3243;Epoch_loss:0.1432;-Epoch_acc:99.0991;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.3243;Epoch_loss:0.1324;-Epoch_acc:99.0991;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.3243;Epoch_loss:0.1135;-Epoch_acc:99.0991;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:99.3243;Epoch_loss:0.0953;-Epoch_acc:99.0991;
+INFO:root:Start [VRSNet] training for dataset [WTH] with [20] epochs.
+INFO:root:CUDA acceleration available: [True]
+INFO:root:Model info:	Feature_shape:[210];	Projector_shape:[64]	Anchoring:[20]
+WARNING:root:Warning message: Loading Extractor Success!
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:50.4505;Epoch_loss:395.0306;-Epoch_acc:50.4505;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:69.3694;Epoch_loss:73.7886;-Epoch_acc:69.3694;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:96.6216;Epoch_loss:49.4747;-Epoch_acc:96.6216;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:96.6216;Epoch_loss:28.8558;-Epoch_acc:94.3694;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:97.9730;Epoch_loss:17.6154;-Epoch_acc:97.9730;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:97.9730;Epoch_loss:10.1886;-Epoch_acc:96.8468;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:97.9730;Epoch_loss:7.3325;-Epoch_acc:97.5225;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.4234;Epoch_loss:5.6385;-Epoch_acc:98.4234;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:2.8002;-Epoch_acc:98.6486;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:2.1383;-Epoch_acc:98.4234;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:1.5958;-Epoch_acc:98.6486;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:1.0424;-Epoch_acc:98.4234;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:0.9351;-Epoch_acc:98.4234;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:0.8038;-Epoch_acc:98.4234;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:0.6139;-Epoch_acc:98.1982;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:0.5651;-Epoch_acc:98.4234;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:0.4112;-Epoch_acc:98.4234;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:0.4587;-Epoch_acc:98.4234;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:0.3463;-Epoch_acc:98.1982;
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): Best_acc:98.6486;Epoch_loss:0.4861;-Epoch_acc:98.4234;

@@ -1,0 +1,267 @@
+INFO:root:Start [VRSNet] training for dataset [WTH] with [100] epochs.
+INFO:root:CUDA acceleration available: [True]
+INFO:root:Model info:	Feature_shape:[210];	Projector_shape:[64]	Finetune:[1]
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):1	Loss: 2.9536	self_acc:10.3051
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):2	Loss: 2.1206	self_acc:23.4375
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):3	Loss: 1.7689	self_acc:32.1429
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):4	Loss: 1.6261	self_acc:36.3839
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):5	Loss: 1.5203	self_acc:39.2857
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):6	Loss: 1.3730	self_acc:47.8423
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):7	Loss: 1.2743	self_acc:48.5863
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):8	Loss: 1.1776	self_acc:54.9107
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):9	Loss: 1.1204	self_acc:55.3199
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):10	Loss: 1.0358	self_acc:58.7798
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):11	Loss: 0.9878	self_acc:63.8765
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):12	Loss: 0.8945	self_acc:65.5134
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):13	Loss: 0.7684	self_acc:70.8705
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):14	Loss: 0.7681	self_acc:69.6057
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):15	Loss: 0.7342	self_acc:71.2054
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):16	Loss: 0.6237	self_acc:76.5625
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):17	Loss: 0.6426	self_acc:76.3765
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):18	Loss: 0.6248	self_acc:77.7902
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):19	Loss: 0.6107	self_acc:78.0134
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):20	Loss: 0.5575	self_acc:80.0595
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):21	Loss: 0.5188	self_acc:80.8408
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):22	Loss: 0.4833	self_acc:85.1935
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):23	Loss: 0.4219	self_acc:86.8676
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):24	Loss: 0.4230	self_acc:86.0863
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):25	Loss: 0.4562	self_acc:84.0774
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):26	Loss: 0.3540	self_acc:88.7277
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):27	Loss: 0.3865	self_acc:87.0536
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):28	Loss: 0.3416	self_acc:91.8899
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):29	Loss: 0.3296	self_acc:89.5089
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):30	Loss: 0.3457	self_acc:90.5878
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):31	Loss: 0.3552	self_acc:92.1875
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):32	Loss: 0.3023	self_acc:93.4152
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):33	Loss: 0.2815	self_acc:91.3318
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):34	Loss: 0.2685	self_acc:93.9732
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):35	Loss: 0.2636	self_acc:92.6339
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):36	Loss: 0.2816	self_acc:93.3036
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):37	Loss: 0.2210	self_acc:95.5357
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):38	Loss: 0.2029	self_acc:95.2009
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):39	Loss: 0.2168	self_acc:93.9732
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):40	Loss: 0.2607	self_acc:92.9688
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):41	Loss: 0.3021	self_acc:91.0342
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):42	Loss: 0.2928	self_acc:91.3690
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):43	Loss: 0.2863	self_acc:91.5551
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.001):44	Loss: 0.2364	self_acc:94.3452
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):45	Loss: 0.2445	self_acc:93.4152
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):46	Loss: 0.1912	self_acc:95.2009
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):47	Loss: 0.1642	self_acc:96.6518
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):48	Loss: 0.1469	self_acc:96.7634
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):49	Loss: 0.1627	self_acc:96.0938
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):50	Loss: 0.1412	self_acc:96.9866
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):51	Loss: 0.1739	self_acc:96.5402
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):52	Loss: 0.1360	self_acc:97.4330
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):53	Loss: 0.1231	self_acc:98.2143
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):54	Loss: 0.1370	self_acc:97.0982
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):55	Loss: 0.1284	self_acc:97.4330
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):56	Loss: 0.1322	self_acc:97.2098
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):57	Loss: 0.1190	self_acc:98.4375
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):58	Loss: 0.1185	self_acc:98.6607
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):59	Loss: 0.1228	self_acc:97.5446
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):60	Loss: 0.1268	self_acc:97.4330
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):61	Loss: 0.1251	self_acc:97.4702
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):62	Loss: 0.1223	self_acc:97.6935
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):63	Loss: 0.1199	self_acc:97.2842
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):64	Loss: 0.1041	self_acc:97.9539
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):65	Loss: 0.1123	self_acc:98.3259
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):66	Loss: 0.1076	self_acc:98.4747
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):67	Loss: 0.1046	self_acc:98.6607
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):68	Loss: 0.0978	self_acc:98.7723
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):69	Loss: 0.0958	self_acc:98.3259
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):70	Loss: 0.0855	self_acc:98.9955
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):71	Loss: 0.0988	self_acc:98.3259
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):72	Loss: 0.1001	self_acc:98.9955
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):73	Loss: 0.1137	self_acc:97.2098
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):74	Loss: 0.1068	self_acc:98.2143
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):75	Loss: 0.1116	self_acc:97.9911
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):76	Loss: 0.0848	self_acc:99.3304
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):77	Loss: 0.1156	self_acc:98.4375
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):78	Loss: 0.0841	self_acc:98.9955
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):79	Loss: 0.1005	self_acc:98.8095
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):80	Loss: 0.0991	self_acc:99.1071
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):81	Loss: 0.1036	self_acc:97.7679
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):82	Loss: 0.1001	self_acc:98.5491
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):83	Loss: 0.0937	self_acc:98.8839
+INFO:root:¡¾Extractor¡¿Epoch(lr-0.0001):84	Loss: 0.1023	self_acc:98.2143
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):85	Loss: 0.0842	self_acc:98.9955
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):86	Loss: 0.0900	self_acc:98.4375
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):87	Loss: 0.0836	self_acc:99.2188
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):88	Loss: 0.0905	self_acc:98.9211
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):89	Loss: 0.0826	self_acc:98.6607
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):90	Loss: 0.0907	self_acc:98.7723
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):91	Loss: 0.0824	self_acc:98.7723
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):92	Loss: 0.0836	self_acc:99.1071
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):93	Loss: 0.0860	self_acc:99.2188
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):94	Loss: 0.0876	self_acc:98.6607
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):95	Loss: 0.0815	self_acc:99.2188
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):96	Loss: 0.0673	self_acc:99.5536
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):97	Loss: 0.0833	self_acc:98.6607
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):98	Loss: 0.0832	self_acc:99.1071
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):99	Loss: 0.0812	self_acc:99.3304
+INFO:root:¡¾Extractor¡¿Epoch(lr-1e-05):100	Loss: 0.0897	self_acc:99.1071
+WARNING:root:Warning message: Loading Extractor Success!
+INFO:root:Start [VRSNet] training for dataset [WTH] with [100] epochs.
+INFO:root:CUDA acceleration available: [True]
+INFO:root:Model info:	Feature_shape:[210];	Projector_shape:[64]	Finetune:[1]
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 1	SPD_loss:4997.3809
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 2	SPD_loss:4123.8583
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 3	SPD_loss:3779.9949
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 4	SPD_loss:3592.6252
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 5	SPD_loss:3454.1492
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 6	SPD_loss:3327.4652
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 7	SPD_loss:3196.8915
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 8	SPD_loss:3078.9141
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 9	SPD_loss:2947.7158
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 10	SPD_loss:2854.7636
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 11	SPD_loss:2754.4573
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 12	SPD_loss:2663.9728
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 13	SPD_loss:2560.4409
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 14	SPD_loss:2487.6474
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 15	SPD_loss:2397.9146
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 16	SPD_loss:2315.1498
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 17	SPD_loss:2233.0151
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 18	SPD_loss:2172.4322
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 19	SPD_loss:2104.2330
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 20	SPD_loss:2040.2062
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 21	SPD_loss:1984.9209
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 22	SPD_loss:1935.7965
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 23	SPD_loss:1856.4481
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 24	SPD_loss:1808.5617
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 25	SPD_loss:1734.2660
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 26	SPD_loss:1697.2777
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 27	SPD_loss:1638.1658
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 28	SPD_loss:1576.8432
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 29	SPD_loss:1525.8329
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 30	SPD_loss:1483.9960
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 31	SPD_loss:1446.0207
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 32	SPD_loss:1396.2016
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 33	SPD_loss:1358.2065
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 34	SPD_loss:1325.5606
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 35	SPD_loss:1285.6674
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 36	SPD_loss:1244.2262
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 37	SPD_loss:1208.4657
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 38	SPD_loss:1176.7268
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 39	SPD_loss:1139.7565
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 40	SPD_loss:1113.5227
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 41	SPD_loss:1069.1035
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 42	SPD_loss:1040.4223
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 43	SPD_loss:1016.8514
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 44	SPD_loss:980.3905
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 45	SPD_loss:939.1442
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 46	SPD_loss:914.8488
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 47	SPD_loss:894.0324
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 48	SPD_loss:877.9205
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 49	SPD_loss:856.0594
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 50	SPD_loss:818.9637
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 51	SPD_loss:813.0757
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 52	SPD_loss:794.5086
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 53	SPD_loss:746.9090
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 54	SPD_loss:733.6669
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 55	SPD_loss:697.8804
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 56	SPD_loss:683.5218
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 57	SPD_loss:665.9305
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 58	SPD_loss:655.9255
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 59	SPD_loss:629.7331
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 60	SPD_loss:611.2249
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 61	SPD_loss:584.9660
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 62	SPD_loss:581.7544
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 63	SPD_loss:565.5533
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 64	SPD_loss:543.0905
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 65	SPD_loss:518.2266
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 66	SPD_loss:507.7229
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 67	SPD_loss:488.9323
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 68	SPD_loss:475.4910
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 69	SPD_loss:458.4067
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 70	SPD_loss:451.7680
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 71	SPD_loss:454.4633
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 72	SPD_loss:425.7621
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 73	SPD_loss:406.9427
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 74	SPD_loss:395.5028
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 75	SPD_loss:381.2584
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 76	SPD_loss:394.8713
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 77	SPD_loss:368.6419
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 78	SPD_loss:356.9453
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 79	SPD_loss:342.0370
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 80	SPD_loss:356.6945
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 81	SPD_loss:327.6359
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 82	SPD_loss:317.4238
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 83	SPD_loss:323.3039
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 84	SPD_loss:298.5966
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 85	SPD_loss:293.8425
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 86	SPD_loss:285.0164
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 87	SPD_loss:278.1213
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 88	SPD_loss:265.2663
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 89	SPD_loss:261.3590
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 90	SPD_loss:261.3231
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 91	SPD_loss:242.4717
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 92	SPD_loss:249.9876
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 93	SPD_loss:239.6666
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 94	SPD_loss:246.5094
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 95	SPD_loss:221.9397
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 96	SPD_loss:241.8015
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 97	SPD_loss:222.0993
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 98	SPD_loss:217.1179
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 99	SPD_loss:217.6061
+INFO:root:¡¾Approximator¡¿Epoch(lr-0.001): 100	SPD_loss:205.7260
+INFO:root:Start [VRSNet] training for dataset [WTH] with [50] epochs.
+INFO:root:CUDA acceleration available: [True]
+INFO:root:Model info:	Feature_shape:[210];	Projector_shape:[64]	Anchoring:[1]
+WARNING:root:Warning message: Loading Extractor Success!
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 1	Clf_loss:0.0000	Acc:0.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 2	Clf_loss:0.0000	Acc:50.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 3	Clf_loss:0.0000	Acc:75.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 4	Clf_loss:0.0000	Acc:75.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 5	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 6	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 7	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 8	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 9	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 10	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 11	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 12	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 13	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 14	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 15	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.0001): 16	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.0001): 17	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.0001): 18	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.0001): 19	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.0001): 20	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.0001): 21	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.0001): 22	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1e-05): 23	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1e-05): 24	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1e-05): 25	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1e-05): 26	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1e-05): 27	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1e-05): 28	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1e-05): 29	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-06): 30	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-06): 31	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-06): 32	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-06): 33	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-06): 34	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-06): 35	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-07): 36	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-07): 37	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-07): 38	Clf_loss:0.0000	Acc:75.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-07): 39	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-07): 40	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000002e-07): 41	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000004e-08): 42	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000004e-08): 43	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000004e-08): 44	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000004e-08): 45	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000004e-08): 46	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000004e-08): 47	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000004e-08): 48	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000004e-08): 49	Clf_loss:0.0000	Acc:100.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-1.0000000000000004e-08): 50	Clf_loss:0.0000	Acc:100.0
+INFO:root:Start [VRSNet] training for dataset [WTH] with [50] epochs.
+INFO:root:CUDA acceleration available: [True]
+INFO:root:Model info:	Feature_shape:[210];	Projector_shape:[64]	Anchoring:[5]
+WARNING:root:Warning message: Loading Extractor Success!
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 1	Clf_loss:0.0000	Acc:20.0
+INFO:root:¡¾Classifier¡¿Epoch(lr-0.001): 2	Clf_loss:0.0000	Acc:55.00000000000001
